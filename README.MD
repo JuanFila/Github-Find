@@ -1,16 +1,15 @@
-# Github Find 
+## Github Find 
 
 GithubFind uses the github API to search for a specific user registered in github and brings his information.
 
-## Project Images
 
-HOME
+## Home
 <img src="./img/Home-IMG.PNG">
 
-Search
+## Search
 <img src="./img/Search-IMG.PNG">
 
-Error
+## Error
 <img src="./img/PageError-IMG.PNG">
 
 ## Installation
