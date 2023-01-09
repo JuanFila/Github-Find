@@ -8,10 +8,10 @@ HOME
 <img src="./img/Home-IMG.PNG">
 
 Search
-<img src="./img/Search-IMG.PNG>
+<img src="./img/Search-IMG.PNG">
 
 Error
-<img src="./img/PageError-IMG.PNG>
+<img src="./img/PageError-IMG.PNG">
 
 ## Installation
 
